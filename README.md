@@ -1,11 +1,15 @@
-# CZEtool
-CZEtool. Made in python
+# CZETool
+CZEtool is a Python-based tool that includes a Windows Error Generator, a Windows 10/11 Notification Generator, and an all-in-one batch file for convenience. The tool is designed to streamline common Windows Crazy Error related tasks and make your life easier.
 
-I attempt to make all-in-one CZEtool so that y'all no need to install everything one by one 
-> Animation Capture
+## Usage
+To use Czetool, you will need to have Python installed on your system. Run requirement.bat or
 
-> CPPShot port, or just do an instant when you click it it will open up cppshot
+``
+pip install tkinter
+pip install win10toast
+``
 
-I will hopefully migrate from tkinter to pysimplegui for better UI customaztions 
+And then, simply run czetool.bat, and you're good to go.
 
-give ideas
+## !!Note!!
+While the tool is currently built with tkinter, there are plans to migrate to PySimpleGUI in the future for more customizable UI options. If you have any ideas or suggestions for new features, don't hesitate to get in touch!
