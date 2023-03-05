@@ -2,7 +2,7 @@
 CZEtool is a Python-based tool that includes a `Windows Error Generator`, a `Windows 10/11 Notification Generator`, and an all-in-one batch file for convenience. The tool is designed to streamline common Windows Crazy Error related tasks and make your life easier.
 
 ## Usage
-To use CZEtool, you will need to have [Python](https://www.python.org/) installed on your system. Run requirement.bat or
+To use CZEtool, you will need to have [Python](https://www.python.org/) installed on your system. Run `requirement.bat` or run these on your command prompt :
 
 ```
 pip install tkinter
